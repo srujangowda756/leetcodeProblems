@@ -6,26 +6,15 @@
 #         self.right = None
 
 class Solution:
-    def help(self,root,p,q):
-        if not root:
-            return None
-
-        if root==p or root==q:
-            return root
-
-        leftAns=self.help(root.left,p,q)
-        rightAns=self.help(root.right,p,q)
-
-        if leftAns and rightAns:
-            return root
-        if leftAns:
-            return leftAns
-        return rightAns
-        
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        if p==root or q==root:
+        if not root or root==p or root==q:
             return root
-        return self.help(root,p,q)
         
+        AnsLeft = self.lowestCommonAncestor(root.left,p,q)
+        AnsRight = self.lowestCommonAncestor(root.right,p,q)
+
+        if AnsLeft and AnsRight:
+            return root
         
+        return AnsLeft or AnsRight
         
