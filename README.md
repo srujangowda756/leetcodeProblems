@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
