@@ -1,4 +1,5 @@
 # Definition for a binary tree node.
+from collections import deque
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
@@ -8,26 +9,22 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        queue=[root]
+        stack=deque([root])
         ans=[]
 
-        while queue:
+        while stack:
+            temp=[]
+            for _ in range(len(stack)):
+                node=stack.popleft()
+                temp.append(node.val)
 
-            length=len(queue)
-            temp_list=[]
-            for _ in range(length):
-                temp=queue.pop(0)
+                if node.left:
+                    stack.append(node.left)
 
-                temp_list.append(temp.val)
-
-                if temp.left:
-                    queue.append(temp.left)
-                if temp.right:
-                    queue.append(temp.right)
-
-            ans.append(temp_list)
-
+                if node.right:
+                    stack.append(node.right)
+            ans.append(temp)
         return ans
-            
+
 
         
