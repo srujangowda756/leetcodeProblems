@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/srujangowda756/leetcodeProblems/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/srujangowda756/leetcodeProblems/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
