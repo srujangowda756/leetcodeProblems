@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srujangowda756/leetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/srujangowda756/leetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/srujangowda756/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0238-product-of-array-except-self) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/srujangowda756/leetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srujangowda756/leetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
