@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
@@ -188,12 +189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/srujangowda756/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srujangowda756/leetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
