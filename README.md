@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srujangowda756/leetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srujangowda756/leetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/srujangowda756/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/srujangowda756/leetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srujangowda756/leetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0202-happy-number) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/srujangowda756/leetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srujangowda756/leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srujangowda756/leetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/srujangowda756/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
 ## Backtracking
@@ -261,4 +265,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/srujangowda756/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
