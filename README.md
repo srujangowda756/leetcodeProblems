@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/srujangowda756/leetcodeProblems/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srujangowda756/leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/srujangowda756/leetcodeProblems/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/srujangowda756/leetcodeProblems/tree/master/1143-longest-common-subsequence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/srujangowda756/-leetcodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Tree
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/srujangowda756/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/srujangowda756/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [0647-palindromic-substrings](https://github.com/srujangowda756/leetcodeProblems/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/srujangowda756/leetcodeProblems/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
