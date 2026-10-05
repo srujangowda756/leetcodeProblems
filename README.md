@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srujangowda756/leetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/srujangowda756/leetcodeProblems/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/srujangowda756/leetcodeProblems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0242-valid-anagram) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/srujangowda756/leetcodeProblems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srujangowda756/leetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
