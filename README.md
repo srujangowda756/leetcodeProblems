@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/srujangowda756/leetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srujangowda756/leetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/srujangowda756/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srujangowda756/leetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/srujangowda756/leetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/srujangowda756/leetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/srujangowda756/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
