@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/srujangowda756/leetcodeProblems/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/srujangowda756/leetcodeProblems/tree/master/0371-sum-of-two-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
