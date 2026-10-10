@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/srujangowda756/leetcodeProblems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/srujangowda756/leetcodeProblems/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/srujangowda756/leetcodeProblems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srujangowda756/leetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/srujangowda756/leetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/srujangowda756/leetcodeProblems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
