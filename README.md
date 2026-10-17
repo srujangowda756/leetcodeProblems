@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/srujangowda756/leetcodeProblems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srujangowda756/leetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srujangowda756/leetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/srujangowda756/leetcodeProblems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/srujangowda756/leetcodeProblems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/srujangowda756/leetcodeProblems/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0113-path-sum-ii) |
 ## Prefix Sum
 |  |
