@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/srujangowda756/leetcodeProblems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srujangowda756/leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0567-permutation-in-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srujangowda756/leetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srujangowda756/leetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srujangowda756/leetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/srujangowda756/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/srujangowda756/leetcodeProblems/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srujangowda756/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
