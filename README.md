@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/srujangowda756/leetcodeProblems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/srujangowda756/leetcodeProblems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/srujangowda756/leetcodeProblems/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/srujangowda756/leetcodeProblems/tree/master/0853-car-fleet) |
 ## String
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/srujangowda756/leetcodeProblems/tree/master/0435-non-overlapping-intervals) |
+| [0853-car-fleet](https://github.com/srujangowda756/leetcodeProblems/tree/master/0853-car-fleet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/srujangowda756/leetcodeProblems/tree/master/0853-car-fleet) |
 ## DP on Trees
 |  |
 | ------- |
