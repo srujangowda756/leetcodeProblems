@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/srujangowda756/leetcodeProblems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/srujangowda756/leetcodeProblems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/srujangowda756/leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/srujangowda756/leetcodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/srujangowda756/leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srujangowda756/leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/srujangowda756/leetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/srujangowda756/leetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/srujangowda756/leetcodeProblems/tree/master/0853-car-fleet) |
